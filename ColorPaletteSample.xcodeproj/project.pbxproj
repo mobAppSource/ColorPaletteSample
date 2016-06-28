@@ -8,20 +8,22 @@
 
 /* Begin PBXBuildFile section */
 		AFCF07C51D21B40500377BE3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFCF07C41D21B40500377BE3 /* AppDelegate.swift */; };
-		AFCF07C71D21B40500377BE3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFCF07C61D21B40500377BE3 /* ViewController.swift */; };
 		AFCF07CA1D21B40500377BE3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFCF07C81D21B40500377BE3 /* Main.storyboard */; };
 		AFCF07CC1D21B40500377BE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AFCF07CB1D21B40500377BE3 /* Assets.xcassets */; };
 		AFCF07CF1D21B40500377BE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFCF07CD1D21B40500377BE3 /* LaunchScreen.storyboard */; };
+		AFCF07D71D21B4B400377BE3 /* palettes.plist in Resources */ = {isa = PBXBuildFile; fileRef = AFCF07D61D21B4B400377BE3 /* palettes.plist */; };
+		AFF57E5E1D21EFA000EA3584 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF57E5D1D21EFA000EA3584 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		AFCF07C11D21B40500377BE3 /* ColorPaletteSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorPaletteSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFCF07C41D21B40500377BE3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		AFCF07C61D21B40500377BE3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		AFCF07C91D21B40500377BE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AFCF07CB1D21B40500377BE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AFCF07CE1D21B40500377BE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AFCF07D01D21B40500377BE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AFCF07D61D21B4B400377BE3 /* palettes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = palettes.plist; sourceTree = "<group>"; };
+		AFF57E5D1D21EFA000EA3584 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,9 +56,10 @@
 		AFCF07C31D21B40500377BE3 /* ColorPaletteSample */ = {
 			isa = PBXGroup;
 			children = (
+				AFCF07D61D21B4B400377BE3 /* palettes.plist */,
 				AFCF07C41D21B40500377BE3 /* AppDelegate.swift */,
-				AFCF07C61D21B40500377BE3 /* ViewController.swift */,
 				AFCF07C81D21B40500377BE3 /* Main.storyboard */,
+				AFF57E5D1D21EFA000EA3584 /* TableViewController.swift */,
 				AFCF07CB1D21B40500377BE3 /* Assets.xcassets */,
 				AFCF07CD1D21B40500377BE3 /* LaunchScreen.storyboard */,
 				AFCF07D01D21B40500377BE3 /* Info.plist */,
@@ -124,6 +127,7 @@
 			files = (
 				AFCF07CF1D21B40500377BE3 /* LaunchScreen.storyboard in Resources */,
 				AFCF07CC1D21B40500377BE3 /* Assets.xcassets in Resources */,
+				AFCF07D71D21B4B400377BE3 /* palettes.plist in Resources */,
 				AFCF07CA1D21B40500377BE3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -135,7 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AFCF07C71D21B40500377BE3 /* ViewController.swift in Sources */,
+				AFF57E5E1D21EFA000EA3584 /* TableViewController.swift in Sources */,
 				AFCF07C51D21B40500377BE3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,6 +292,7 @@
 				AFCF07D51D21B40500377BE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
