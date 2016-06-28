@@ -133,17 +133,6 @@ extension TableViewController
                 }
             }
         }
-        
-        //
-        
-        
-        var dict = [Int:String]()
-        
-        dict[1] = "World"
-        dict[2] = "Hello"
-        
-        self.switchKey(&dict, fromKey: 0, toKey: 2)
-        print(dict)
     }
     func switchKey<T, U>(inout myDict: [T:U], fromKey: T, toKey: T) {
         if let entry = myDict.removeValueForKey(fromKey) {
