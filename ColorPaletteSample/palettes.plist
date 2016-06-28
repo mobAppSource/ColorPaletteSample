@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<array>
+		<string>138, 149, 182</string>
+		<string>31, 88, 207</string>
+		<string>250, 250, 250</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>127, 146, 156</string>
+		<string>249, 197, 186</string>
+		<string>243, 78, 115</string>
+	</array>
+	<key>3</key>
+	<array>
+		<string>61, 54, 145</string>
+		<string>217, 33, 33</string>
+		<string>227, 227, 227</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>104, 35, 61</string>
+		<string>97, 101, 124</string>
+		<string>123, 157, 88</string>
+	</array>
+	<key>5</key>
+	<array>
+		<string>36, 36, 76</string>
+		<string>224, 157, 137</string>
+		<string>250, 250, 250</string>
+	</array>
+	<key>6</key>
+	<array>
+		<string>101, 174, 191</string>
+		<string>169, 219, 198</string>
+		<string>236, 136, 60</string>
+	</array>
+	<key>7</key>
+	<array>
+		<string>43, 103, 106</string>
+		<string>136, 199, 47</string>
+		<string>243, 247, 185</string>
+	</array>
+	<key>8</key>
+	<array>
+		<string>90, 76, 59</string>
+		<string>202, 110, 29</string>
+		<string>170, 186, 51</string>
+	</array>
+	<key>9</key>
+	<array>
+		<string>194, 0, 27</string>
+		<string>0, 0, 0</string>
+		<string>250, 250, 250</string>
+	</array>
+	<key>10</key>
+	<array>
+		<string>86, 72, 101</string>
+		<string>221, 221, 221</string>
+		<string>237, 164, 110</string>
+	</array>
+	<key>11</key>
+	<array>
+		<string>13, 29, 58</string>
+		<string>41, 71, 179</string>
+		<string>57, 98, 253</string>
+	</array>
+	<key>12</key>
+	<array>
+		<string>0, 0, 0</string>
+		<string>56, 70, 118</string>
+		<string>223, 162, 43</string>
+	</array>
+	<key>13</key>
+	<array>
+		<string>120, 128, 136</string>
+		<string>137, 219, 182</string>
+		<string>250, 250, 250</string>
+	</array>
+	<key>14</key>
+	<array>
+		<string>74, 83, 88</string>
+		<string>158, 137, 137</string>
+		<string>246, 236, 219</string>
+	</array>
+	<key>15</key>
+	<array>
+		<string>49, 0, 95</string>
+		<string>142, 188, 24</string>
+		<string>247, 54, 35</string>
+	</array>
+	<key>16</key>
+	<array>
+		<string>60, 25, 53</string>
+		<string>146, 97, 165</string>
+		<string>252, 241, 171</string>
+	</array>
+	<key>17</key>
+	<array>
+		<string>58, 136, 156</string>
+		<string>180, 180, 180</string>
+		<string>200, 253, 34</string>
+	</array>
+	<key>18</key>
+	<array>
+		<string>200, 32, 72</string>
+		<string>175, 207, 143</string>
+		<string>232, 226, 150</string>
+	</array>
+	<key>19</key>
+	<array>
+		<string>65, 37, 46</string>
+		<string>136, 193, 175</string>
+		<string>207, 67, 131</string>
+	</array>
+	<key>20</key>
+	<array>
+		<string>39, 0, 2</string>
+		<string>39, 128, 8</string>
+		<string>156, 156, 112</string>
+	</array>
+	<key>21</key>
+	<array>
+		<string>204, 204, 204</string>
+		<string>255, 255, 255</string>
+		<string>255, 100, 0</string>
+	</array>
+	<key>22</key>
+	<array>
+		<string>201, 127, 108</string>
+		<string>173, 207, 202</string>
+		<string>242, 229, 186</string>
+	</array>
+	<key>23</key>
+	<array>
+		<string>40, 40, 40</string>
+		<string>21, 156, 203</string>
+		<string>110, 110, 110</string>
+	</array>
+	<key>24</key>
+	<array>
+		<string>63, 51, 69</string>
+		<string>174, 26, 68</string>
+		<string>199, 215, 164</string>
+	</array>
+	<key>25</key>
+	<array>
+		<string>164, 215, 215</string>
+		<string>255, 13, 81</string>
+		<string>215, 255, 223</string>
+	</array>
+	<key>26</key>
+	<array>
+		<string>75, 100, 114</string>
+		<string>69, 173, 168</string>
+		<string>170, 224, 157</string>
+	</array>
+	<key>27</key>
+	<array>
+		<string>0, 0, 0</string>
+		<string>106, 0, 129</string>
+		<string>48, 79, 133</string>
+	</array>
+	<key>28</key>
+	<array>
+		<string>123, 59, 59</string>
+		<string>0, 0, 0</string>
+		<string>132, 175, 176</string>
+	</array>
+</dict>
+</plist>
